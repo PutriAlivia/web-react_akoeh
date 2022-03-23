@@ -1,0 +1,29 @@
+ {
+    "mahasiswa": [
+      {
+        "NIM": 180823453,
+        "nama": "Kyrania",
+        "alamat": "Jl. Tarik, Sidoarjo",
+        "hp": "081906574311",
+        "angkatan": 2020,
+        "status": "aktif"
+      },
+      {
+        "NIM": 140823453,
+        "nama": "Sapinia",
+        "alamat": "Jl. Tarik, Sidoarjo",
+        "hp": "081906574311",
+        "angkatan": 2020,
+        "status": "lulus"
+      },
+      {
+        "id": 164384315,
+        "nim": "1941720108",
+        "nama": "Putri Alivia",
+        "alamat": "Jl. kedung ploso, Tarik, Sidoarjo",
+        "hp": "081727219731",
+        "angkatan": "2019",
+        "status": "Aktif"
+      }
+    ]
+  }
